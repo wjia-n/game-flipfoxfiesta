@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'flipfoxfiestalollipop',
   tip2Id: 'flipfoxfiestabrownie',
-  tip1Label: '💛 Buy me a lollipop',
-  tip2Label: '💛 Buy me a brownie',
+  tip1Label: '💛 Flip Fox Fiesta — Lollipop tip',
+  tip2Label: '💛 Flip Fox Fiesta — Brownie tip',
 );
